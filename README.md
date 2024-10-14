@@ -29,7 +29,7 @@
 <div style="padding-bottom:10px"><b>STEP 00 :</b> Clone the repository</div>
 
 ```bash
-https://github.com/utpal108/waste-detection-using-yoloV5
+https://github.com/raghavsar/waste-detection-using-YOLOv5
 ```
 <div style="padding-top:10px"><b>STEP 01 :</b> Create a virtial environment after opening the repository</div>
 
